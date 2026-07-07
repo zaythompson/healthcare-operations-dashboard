@@ -76,13 +76,6 @@ The dashboard provides healthcare leaders with immediate visibility into operati
 
 ---
 
-## Case Study
-
-📄 **Healthcare Operations Dashboard Case Study**  
-A detailed project case study is included in this repository and documents the business problem, methodology, key insights, recommendations, and project reflection.
-
----
-
 ## Prepared By
 
 **Zayna Thompson**
