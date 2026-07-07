@@ -8,7 +8,7 @@ This project showcases an interactive Power BI dashboard designed to analyze hea
 
 ## Dashboard Preview
 
-> *(Insert your dashboard image below this section after uploading it to the repository.)*
+![Healthcare Operations Dashboard](Healthcare%20operations%20dashboard.PNG)
 
 ---
 
